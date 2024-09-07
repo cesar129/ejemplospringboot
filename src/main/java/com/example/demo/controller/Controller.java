@@ -9,7 +9,6 @@ public class Controller {
     @GetMapping("/")
     public String hola() {
         String message = "Hola Mundo";
-        System.out.println(message);
         if(message.equals("Hola Mundo")) {
             return "Hola";
         }else if(message.equals("Hola Mundo2")) {
