@@ -13,22 +13,6 @@ public class Controller {
             return "Hola";
         }else if(message.equals("Hola Mundo2")) {
             return "Hola2";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
-        } else if (message.equals("Hola Mundo3")) {
-            return "Hola3";
         }
 
         return "Hola";
